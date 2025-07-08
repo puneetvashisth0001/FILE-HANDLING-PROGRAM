@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fbb4f127-b57c-47a6-947f-9e2a416ca338)# FILE-HANDLING-PROGRAM
+# FILE-HANDLING-PROGRAM
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -68,3 +68,5 @@ int main() {
     return 0;
 }
 
+*OUTPUT*
+<img width="409" height="156" alt="Image" src="https://github.com/user-attachments/assets/1b9d2f8e-a42f-45fa-b585-78ab73a52153" />
